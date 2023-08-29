@@ -13,4 +13,5 @@
 
 <p align="center">
     <a href="https://arasoft.xyz" target="_blank">🔗 Official Web Site</a>
+    <a href="https://ara.im" target="_blank">🔗 Ara.im<a/>
 </p>
