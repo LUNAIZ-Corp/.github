@@ -12,6 +12,5 @@
 <h3 align="center">Make your new experience</h3>
 
 <p align="center">
-    <a href="https://arasoft.xyz" target="_blank">🔗 Official Web Site</a>
-    <a href="https://ara.im" target="_blank">🔗 Ara.im<a/>
+    <a href="https://lunaize.com" target="_blank">🔗 Official Web Site</a>
 </p>
