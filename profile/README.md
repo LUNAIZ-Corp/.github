@@ -12,5 +12,5 @@
 <h3 align="center">Make your new experience</h3>
 
 <p align="center">
-    <a href="https://lunaize.com" target="_blank">🔗 Official Web Site</a>
+    <a href="https://lunaiz.com" target="_blank">🔗 Official Web Site</a>
 </p>
