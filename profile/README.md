@@ -6,7 +6,7 @@
     L U N A I Z
 </h1>
 
-<h3 align="center">Make your new experience</h3>
+<h3 align="center">OUR LIGHT ILLUMINATES YOUR NIGHT</h3>
 
 <p align="center">
     <a href="https://lunaiz.com" target="_blank">🔗 Official Web Site</a>
